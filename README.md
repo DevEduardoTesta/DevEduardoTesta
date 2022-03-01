@@ -1,6 +1,6 @@
 ### Ola Mundo 🌍
 
-- 🏙️ Resido em Vitoria-PE, Brasil
+- 🏙️ Resido em Videira - SC, Brasil
 - 📚 Estudante de Desenvolvimento Web
 <div align="center">
   <a href="https://github.com/DevEduardoTesta">

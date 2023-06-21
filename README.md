@@ -1,6 +1,6 @@
 ### Ola Mundo 🌍
 
-- 🏙️ Resido em Videira - SC, Brasil
+- 🏙️ Resido em Itajaí - SC, Brasil
 - 📚 Estudante de Desenvolvimento Web
 <div align="center">
   <a href="https://github.com/DevEduardoTesta">
